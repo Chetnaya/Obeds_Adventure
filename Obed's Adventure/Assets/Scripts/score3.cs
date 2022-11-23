@@ -13,7 +13,7 @@ public class score3 : MonoBehaviour
     {
         scoreDisplay.text = score.ToString();
         
-        if(score >= 30)
+        if(score >= 1001)
         {
             SceneManager.LoadScene("NewLevel(fromGame3)");
         }
