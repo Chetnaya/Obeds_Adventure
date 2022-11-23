@@ -1,4 +1,4 @@
-# Obeds_Adventure
+# Obeds Adventure
 Game Storyline:
 Obed is a big travel nerd and has been travelling for quite a while. He has always had travelling India on his bucket list. Well, now finally he is ready for a visit through this country. However, it won’t be a simple journey as he is gonna come face to face with a lot of hurdles while exploring this culture rich country, India. 
 
