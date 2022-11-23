@@ -6,6 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class NewLevel3 : MonoBehaviour
 {
+    public void NextLevel()
+    {
+        SceneManager.LoadScene("Game 4");
+    }
+
+
     public void MainMenu()
     {
         SceneManager.LoadScene("MainMenu"); 
