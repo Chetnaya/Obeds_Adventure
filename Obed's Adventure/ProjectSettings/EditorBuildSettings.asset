@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Game 6.unity
     guid: 6e1d2fa4a0aff5146a0de1a097819fc1
   - enabled: 1
@@ -41,7 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NewLevel(fromGame2.unity
     guid: abeeb4243d84eb34c87e1d5feae41c92
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Game 4.unity
     guid: ce291751b4f74b5408f4ae24babfe8d6
   - enabled: 1
