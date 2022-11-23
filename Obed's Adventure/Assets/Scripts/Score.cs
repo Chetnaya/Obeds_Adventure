@@ -15,7 +15,7 @@ public class Score : MonoBehaviour {
         scoreDisplay.text = score.ToString();
 
 
-        if(score >= 30)
+        if(score >= 20)
         {
             SceneManager.LoadScene("NewLevel(fromGame1)");
         }
