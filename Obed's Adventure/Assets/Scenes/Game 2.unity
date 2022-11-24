@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a57bde8976971564fb942420bf7e0099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTimeBtwSpawns: 1
+  startTimeBtwSpawns: 0.7
   timeDecrease: 0
   minTime: 0.5
   obstacleTemplate:

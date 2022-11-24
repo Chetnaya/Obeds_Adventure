@@ -14,7 +14,7 @@ public class Player : MonoBehaviour {
 
     private Vector2 targetPos;
 
-    public int health;
+    public float health;
     //public int scoreDisplay;
 
     public GameObject moveEffect;
