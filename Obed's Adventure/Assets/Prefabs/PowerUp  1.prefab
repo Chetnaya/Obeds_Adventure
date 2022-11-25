@@ -125,3 +125,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
+  effect: {fileID: 0}
+  popupSound: {fileID: 6835388348386397173, guid: 2d2d0b6241abb3d47888300155a8a845,
+    type: 3}
