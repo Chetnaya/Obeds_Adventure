@@ -125,6 +125,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
-  effect: {fileID: 0}
+  effect: {fileID: 5587067829974564552, guid: 7819363cc82071e4b91795e4b4a4c593, type: 3}
   popupSound: {fileID: 6835388348386397173, guid: 2d2d0b6241abb3d47888300155a8a845,
     type: 3}

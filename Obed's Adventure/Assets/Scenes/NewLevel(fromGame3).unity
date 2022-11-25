@@ -217,7 +217,7 @@ PrefabInstance:
     - target: {fileID: 4413002391376828010, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 175
+      value: 96
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828010, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
@@ -227,14 +227,14 @@ PrefabInstance:
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_text
-      value: '"Covering a distance of around 53 kms, the train on this route offers
-        one of the most scenic views of this country. I loved travelling through
-        here, hope you do too :>>"'
+      value: '"Known as fun capital of India, Goa celebates two Independence Day
+        as even after British rule, Portuguese refused to release the control of
+        Goa till 19th December 1961"'
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_fontSize
-      value: 32.31
+      value: 34.4
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
@@ -248,8 +248,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
+      propertyPath: m_margin.z
+      value: -529.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
       propertyPath: m_fontSizeBase
-      value: 32.31
+      value: 34.4
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391653404034, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
