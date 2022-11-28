@@ -739,6 +739,7 @@ GameObject:
   - component: {fileID: 1045463231}
   - component: {fileID: 1045463234}
   - component: {fileID: 1045463235}
+  - component: {fileID: 1045463236}
   m_Layer: 0
   m_Name: Score Manager
   m_TagString: Untagged
@@ -822,6 +823,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   scoreDisplay: {fileID: 94448716}
+--- !u!114 &1045463236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045463230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d21d6dc67b9c2af4291f1fa603f20700, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 0
+  scoreDisplay: {fileID: 0}
 --- !u!1001 &1081887393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1846,7 +1861,9 @@ PrefabInstance:
     - target: {fileID: 163607761161364467, guid: 1a826a54c81105b4a82d547a87d75121,
         type: 3}
       propertyPath: m_text
-      value: J a m m u - U d h a m p u r  R o u t e
+      value: 'C h e n a b   R a i l   B r i d g e
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 163607761161364467, guid: 1a826a54c81105b4a82d547a87d75121,
         type: 3}

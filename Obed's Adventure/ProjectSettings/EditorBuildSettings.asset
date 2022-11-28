@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/NewLevel(fromGame3).unity
     guid: ea8846acca02e88409c5e9478fcb19c7
   - enabled: 1
+    path: Assets/Scenes/NewLevel(fromGame4).unity
+    guid: b4f9e47976d38a74ba37b20ede98b9f2
+  - enabled: 1
     path: Assets/Scenes/SelectLevel.unity
     guid: c650b49952ea8144e8ae3e81196ba7c2
   - enabled: 1

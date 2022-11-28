@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class score3 : MonoBehaviour
+public class score4 : MonoBehaviour
 {
     public int score;
     public Text scoreDisplay;
@@ -13,10 +13,10 @@ public class score3 : MonoBehaviour
     {
         scoreDisplay.text = score.ToString();
         
-        if(score >= 50)
+        if(score >= 70)
         
         {
-            SceneManager.LoadScene("NewLevel(fromGame3)");
+            SceneManager.LoadScene("NewLevel(fromGame4)");
         }
 
     }
