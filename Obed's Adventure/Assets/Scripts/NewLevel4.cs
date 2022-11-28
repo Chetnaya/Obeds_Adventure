@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class NewLevel4 : MonoBehaviour
 {
-//   public void NextLevel()
-//     {
-//         SceneManager.LoadScene("Game 4");
-//     }
+  public void NextLevel()
+    {
+        SceneManager.LoadScene("Game 5");
+    }
 
 
     public void MainMenu()
