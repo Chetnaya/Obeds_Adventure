@@ -18,4 +18,12 @@ public class SelectLevel : MonoBehaviour
     {
         SceneManager.LoadScene("Game 3");
     }
+    public void Level4()
+    {
+        SceneManager.LoadScene("Game 4");
+    }
+    public void Level5()
+    {
+        SceneManager.LoadScene("Game 5");
+    }
 }
