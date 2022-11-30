@@ -227,16 +227,14 @@ PrefabInstance:
     - target: {fileID: 4413002391376828010, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -281.93622
+      value: -305
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_text
-      value: "\"Did you know that a Taj Mahal has Islamic calligraphy inscriptions
-        all over.The Calligrapher left a very humble signature that can be translated
-        as \u201CWritten by the insignificant being, Amanat Khan Shirazi\u201D. The
-        Calligraphic inscriptions in Arabic are texts from the Quran, and they are
-        beautifully inscribed in various places\""
+      value: '"Did you know that a Taj Mahal has Islamic calligraphy inscriptions
+        all over. The Calligraphic inscriptions in Arabic are texts from the Quran,
+        and they are beautifully inscribed in various places"'
       objectReference: {fileID: 0}
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
@@ -258,10 +256,37 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 32.21
       objectReference: {fileID: 0}
+    - target: {fileID: 4413002391409350411, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ad180a80e00f0874f8149e341b4c9152,
+        type: 3}
     - target: {fileID: 4413002391653404034, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875592, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875593, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_text
+      value: '"Hey hey!! It''s Obed again! I absolutely loved this adventure and
+        travel through Agra. Here is something interesting about Taj Mahal :>"'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875593, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8257465028516246068, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -80
       objectReference: {fileID: 0}
     - target: {fileID: 8257465028516246069, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
@@ -414,6 +439,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 080465cab109bc2439336e97f3e23f07,
         type: 3}
+    - target: {fileID: 8257465028611627240, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -75
+      objectReference: {fileID: 0}
     - target: {fileID: 8257465028611627241, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -428,6 +458,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: NewLevel2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8257465028640636914, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -77
       objectReference: {fileID: 0}
     - target: {fileID: 8257465028640636915, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}

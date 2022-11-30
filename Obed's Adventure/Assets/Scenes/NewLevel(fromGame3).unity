@@ -261,11 +261,23 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875592, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 119
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875592, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -114
+      objectReference: {fileID: 0}
     - target: {fileID: 4413002392089875593, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_text
-      value: "\"Helllloooo, I'm back again hehe.  As you helped me \nONCE again,
-        here is something intresting!!!\""
+      value: '"You are doing absolutely great :))
+
+        Talking about my travel
+        experience through Goa, there is something fascinating that I learned"'
       objectReference: {fileID: 0}
     - target: {fileID: 4413002392089875593, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
@@ -276,6 +288,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_fontSizeBase
       value: 34.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413002392089875593, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8257465028516246068, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
