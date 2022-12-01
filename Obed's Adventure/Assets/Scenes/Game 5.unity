@@ -1940,7 +1940,7 @@ PrefabInstance:
     - target: {fileID: 163607761161364467, guid: 1a826a54c81105b4a82d547a87d75121,
         type: 3}
       propertyPath: m_text
-      value: 'K  e  r  e  l  a '
+      value: 'K  e  r  a  l  a '
       objectReference: {fileID: 0}
     - target: {fileID: 163607761161364467, guid: 1a826a54c81105b4a82d547a87d75121,
         type: 3}

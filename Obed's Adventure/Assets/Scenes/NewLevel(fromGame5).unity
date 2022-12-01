@@ -227,7 +227,7 @@ PrefabInstance:
     - target: {fileID: 4413002391376828011, guid: fb2fb0a5874a3ca43ba93cc35b46b550,
         type: 3}
       propertyPath: m_text
-      value: "\"Munnar, Located in Kerela is an attractive destination with the world's
+      value: "\"Munnar, Located in Kerala is an attractive destination with the world's
         best tea estates. The hill station of Munnar is synonymous with rolling hills
         that are carpeted with verdant plantations of tea \u2013 a delicious beverage
         loved worldwide!!!!\""
